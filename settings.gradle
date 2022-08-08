@@ -1,0 +1,2 @@
+include ':app', ':LibCheckInternet'
+rootProject.name = "MVVM-Kotlin-Android-Architecture"
